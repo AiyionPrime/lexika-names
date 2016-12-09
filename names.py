@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-print("names 0.1")
+print("names 0.2")
 
 inp = "names.txt"
 data = open(inp)
